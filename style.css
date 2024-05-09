@@ -56,9 +56,9 @@ span{
 }
 
 li svg{
-    width: 19px;
-    height: 19px;
-    fill: rgb(131, 131, 131);
+    width: 20px;
+    height: 20px;
+    fill: #d7d7d7;
     cursor: pointer;
 }
 
@@ -159,8 +159,8 @@ textarea::placeholder{
 
 .font-control svg{
     fill: white;
-    width: 20px;
-    height: 20px;
+    width: 18px;
+    height: 18px;
 }
 
 .btn{
